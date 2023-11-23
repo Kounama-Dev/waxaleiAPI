@@ -1,1 +1,1 @@
-# WaxaleiAPP
+# waxaleiAPI
